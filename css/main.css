@@ -1,0 +1,53 @@
+#corpo{
+    margin: 0;
+    padding: 0;
+    
+}
+
+#corpo{
+    background-image: url("../imagens/background-1939128.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.space-text{
+   margin: 0;
+   padding: 0;
+   text-align: center;
+   color: aliceblue;
+   margin-top: 20px;
+   font-style: italic;
+}
+
+#imagem1{
+    width: 150px;
+    height: 300px;
+    margin-top: 135px;
+    margin-left: 220px;
+    
+}
+
+#imagem2{
+    width: 200px;
+    height: 200px;
+    margin-right: 100px;
+    margin-top: -400px;
+    float: right;
+}
+
+#telaLogin{
+    
+    width: 250px;
+    height: 350px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%, -50%);
+    border: none;
+    
+}
+
+
+
